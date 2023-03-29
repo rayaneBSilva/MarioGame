@@ -4,5 +4,5 @@
 
 Mario game é um jogo bem simples usando apenas html, css e 
 Javascript. 
-É um jogo bem simples, no qual você tem que pular obstáculos, o jogo termina quando você colide com algum obstáculo.
+É um jogo , no qual você tem que pular obstáculos, o jogo termina quando você colide com algum obstáculo.
 
